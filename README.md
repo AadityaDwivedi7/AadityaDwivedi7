@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AadityaDwivedi7
 - 👀 I’m interested in Python Programming
-- 🌱 I’m currently learning Advanced Python
-- 💞️ I’m looking to collaborate on a Python desktop App based on "Tkinter" module. 
+- 🌱 I’m currently learning Numpy for Data Science
+- 💞️ I’m looking to collaborate on a Python desktop App based on "Tkinter". 
 - � My E-MAIL - adidwivedi72@gmail.com
