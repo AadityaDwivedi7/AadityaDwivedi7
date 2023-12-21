@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @AadityaDwivedi7
-- 👀 I’m interested in Python Programming
-- 🌱 I’m currently learning AI.
-- 💞️ I’m looking to collaborate on a Python AI Chatbot
+- 👀 I’m interested in full stack development
 - � My E-MAIL - adidwivedi72@gmail.com
